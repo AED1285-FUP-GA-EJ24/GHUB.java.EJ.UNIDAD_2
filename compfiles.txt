@@ -1,2 +1,4 @@
+./otrosprogramas/programa.java
 ./miPrincipal/Principal.java
+./miPrincipal/Programa.java
 ./miTest/AppTest.java
