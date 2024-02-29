@@ -1,7 +1,6 @@
 package miPrincipal;
 
 
-
 public class Principal {
     
     public static void main(String[] args) {
@@ -18,6 +17,17 @@ public class Principal {
         System.out.println(1.1e5*1.1e2);
         System.out.println(1.10000*1.10);//retoran infinito pos
         System.out.println(1.1e200*1.1e200);//da infinito
+
+        char car='A';
+
+        car='\101';
+
+        System.out.println(Integer);
+
+        long metodo1(int n)
+
+
+
         
     }
 }
