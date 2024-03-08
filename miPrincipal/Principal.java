@@ -20,6 +20,8 @@ public class Principal {
         System.out.println(1.1e200*1.1e200);//da infinito
 
         calculardistancia();
+        expresion();
+
     }
     public static void calculardistancia() {
         Scanner entrada=new Scanner(System.in);
@@ -34,5 +36,21 @@ public class Principal {
         d=v/t;
 
         System.out.println("Distancia= "+d+" Metros");
+        entrada.close();
+    }
+    public static void expresion() {
+        Scanner entrada=new Scanner(System.in);
+
+        float r;
+        int a,b;
+
+        System.out.print("Proporciona valor de a");
+        a=entrada.nextInt();
+        System.out.print("Proporciona valor de b");
+        b=entrada.nextInt();
+        r=(a+b)^2/(3*b);
+
+        System.out.println("Resultado= "+r);
+        entrada.close();
     }
 }
