@@ -1,5 +1,6 @@
 package miPrincipal;
 
+import java.util.Scanner;
 
 public class Principal {
     
@@ -18,16 +19,20 @@ public class Principal {
         System.out.println(1.10000*1.10);//retoran infinito pos
         System.out.println(1.1e200*1.1e200);//da infinito
 
-        char car='A';
+        calculardistancia();
+    }
+    public static void calculardistancia() {
+        Scanner entrada=new Scanner(System.in);
 
-        car='\101';
+        float d;
+        float v,t;
 
-        System.out.println(Integer);
+        System.out.print("Proporciona velocidad m/s");
+        v=entrada.nextFloat();
+        System.out.print("Proporciona tiempo en s");
+        t=entrada.nextFloat();
+        d=v/t;
 
-        long metodo1(int n)
-
-
-
-        
+        System.out.println("Distancia= "+d+" Metros");
     }
 }
