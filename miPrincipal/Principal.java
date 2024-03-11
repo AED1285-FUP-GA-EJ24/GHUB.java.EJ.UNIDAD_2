@@ -48,7 +48,7 @@ public class Principal {
         a=entrada.nextInt();
         System.out.print("Proporciona valor de b");
         b=entrada.nextInt();
-        r=(a+b)^2/(3*b);
+        r=(float)Math.pow((a+b),2)/(3*b);
 
         System.out.println("Resultado= "+r);
         entrada.close();
