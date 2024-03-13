@@ -1,0 +1,63 @@
+un{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Puntaje.Principal",
+            "projectName": "GHUB.java.EJ.UNIDAD_2.Zahid_Rene_d5d49a56"
+        },
+        {
+            "type": "java",
+            "name": "calculardistancia",
+            "request": "launch",
+            "mainClass": "distancia.calculardistancia",
+            "projectName": "GHUB.java.EJ.UNIDAD_2.Zahid_Rene_d5d49a56"
+        },
+        {
+            "type": "java",
+            "name": "principal",
+            "request": "launch",
+            "mainClass": "distancia.principal",
+            "projectName": "GHUB.java.EJ.UNIDAD_2.Zahid_Rene_d5d49a56"
+        },
+        {
+            "type": "java",
+            "name": "principal(1)",
+            "request": "launch",
+            "mainClass": "expresion.principal",
+            "projectName": "GHUB.java.EJ.UNIDAD_2.Zahid_Rene_d5d49a56"
+        },
+        {
+            "type": "java",
+            "name": "Principal(1)",
+            "request": "launch",
+            "mainClass": "miPrincipal.Principal",
+            "projectName": "GHUB.java.EJ.UNIDAD_2.Zahid_Rene_d5d49a56"
+        },
+        {
+            "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "miPrincipal.Programa",
+            "projectName": "GHUB.java.EJ.UNIDAD_2.Zahid_Rene_d5d49a56"
+        },
+        {
+            "type": "java",
+            "name": "principal(2)",
+            "request": "launch",
+            "mainClass": "promedio.principal",
+            "projectName": "GHUB.java.EJ.UNIDAD_2.Zahid_Rene_d5d49a56"
+        }
+    ]
+}

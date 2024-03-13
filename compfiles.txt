@@ -2,7 +2,6 @@
 ./expresion/expresion.java
 ./otrosprogramas/programa.java
 ./miPrincipal/Principal.java
-./miPrincipal/LALUNA.java
 ./miPrincipal/Programa.java
 ./biblioteca/manual.java
 ./biblioteca/libro.java
@@ -11,3 +10,5 @@
 ./distancia/principal.java
 ./distancia/calculardistancia.java
 ./miTest/AppTest.java
+./Puntaje/Principal.java
+./Puntaje/Puntaje.java
