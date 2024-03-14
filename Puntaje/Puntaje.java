@@ -3,9 +3,8 @@ package Puntaje;
 import java.util.Scanner;
 
 public class Puntaje {
-    private static final Scanner Salida = null;
 
-    public static void calcularpuntaje() {
+    public void calcularpuntaje() {
         Scanner Entrada=new Scanner(System.in);
         int c,i,b;
         int p;

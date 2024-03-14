@@ -3,7 +3,7 @@ package distancia;
 import java.util.Scanner;
 
 public class calculardistancia {
-    public static void main(String[] args) {
+    public void calculardistancia() {
         Scanner entrada=new Scanner(System.in);
 
         float d;

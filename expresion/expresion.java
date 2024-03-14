@@ -3,7 +3,7 @@ package expresion;
 import java.util.Scanner;
 
 public class expresion {
-    public static void expresion() {
+    public void expresion() {
         Scanner entrada=new Scanner(System.in);
 
         float r;

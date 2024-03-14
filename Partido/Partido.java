@@ -3,7 +3,7 @@ package Partido;
 import java.util.Scanner;
 
 public class Partido {
-    public static void calcularpuntaje() {
+    public void calcularpartido() {
         Scanner teclado = new Scanner(System.in);
         short g,p,e;
         short puntos;
