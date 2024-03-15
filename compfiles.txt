@@ -1,6 +1,8 @@
 ./expresion/principal.java
 ./expresion/expresion.java
 ./otrosprogramas/programa.java
+./calculadora/Principal.java
+./calculadora/Calculadora.java
 ./miPrincipal/Principal.java
 ./miPrincipal/Programa.java
 ./biblioteca/manual.java
@@ -12,3 +14,7 @@
 ./miTest/AppTest.java
 ./Puntaje/Principal.java
 ./Puntaje/Puntaje.java
+./triangulo/Triangulo.java
+./triangulo/Principal.java
+./Partido/Partido.java
+./Partido/Principal.java
